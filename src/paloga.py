@@ -48,5 +48,5 @@ def _setup_logging(args):
 if __name__ == '__main__':
     args = _setup_argparser()
     _setup_logging(args)
-    
+
     sys.exit()
